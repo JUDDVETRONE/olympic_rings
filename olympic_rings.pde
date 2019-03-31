@@ -5,7 +5,7 @@
 //click "s" key again to resume drawing
 
 
-boolean myLooping = true;
+//boolean myLooping = true;
 
 PImage img;
 PImage head;
@@ -82,14 +82,14 @@ void keyPressed() {
   //blendMode(ADD);
 }
   
-  switch(key) {
-  case 's':
-    if (myLooping) { 
-      noLoop();
-    } else { 
-      loop();
-    }
-    myLooping = !myLooping;
-    break;
-  }
+  //switch(key) {
+    //case 's':
+    //if (myLooping) { 
+      //noLoop();
+    //} else { 
+      //loop();
+    //}
+    //myLooping = !myLooping;
+    /break;
+  //}
 }
