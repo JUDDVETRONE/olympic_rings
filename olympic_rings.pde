@@ -82,14 +82,5 @@ void keyPressed() {
   //blendMode(ADD);
 }
   
-  //switch(key) {
-    //case 's':
-    //if (myLooping) { 
-      //noLoop();
-    //} else { 
-      //loop();
-    //}
-    //myLooping = !myLooping;
-    /break;
-  //}
+ }
 }
