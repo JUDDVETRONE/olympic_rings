@@ -20,7 +20,7 @@ float big = 250;
 void setup()
 {
   size(800, 600);
-  //frameRate(10);
+  frameRate(30);
   //delay(3000);
   head = loadImage("vetrone.head.png");
   
