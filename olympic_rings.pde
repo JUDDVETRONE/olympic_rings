@@ -30,7 +30,7 @@ void setup()
 void draw()
 {
   
-  image(head, mouseX-80, mouseY-100, 54, 73);
+  //image(head, mouseX-80, mouseY-100, 54, 73);
   
   //background shape
   noStroke();
@@ -82,5 +82,5 @@ void keyPressed() {
   //blendMode(ADD);
 }
   
- }
+ 
 }
